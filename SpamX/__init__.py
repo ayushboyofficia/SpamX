@@ -13,7 +13,7 @@ StartTime = time.time()
 
 # --- versions --- #
 version = {
-    "TURBO PAPA SPAM": v2.0,
+    "SpamX": "v2.0",
     "pyrogram": __version__,
     "python": python_version(),
 }
@@ -28,4 +28,4 @@ dataBase = dataBase
 if PING_MSG:
     pingMSG = str(PING_MSG)
 else:
-    pingMSG = "TURBO SPAM BOT AA GAYA HAIN SABKI MAA CHODNE KE LIE⚡"
+    pingMSG = "SpamX"
