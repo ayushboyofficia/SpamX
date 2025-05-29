@@ -13,13 +13,13 @@ StartTime = time.time()
 
 # --- versions --- #
 version = {
-    "SpamX": "v2.0",
+    "TURBO PAPA SPAM": "v2.0",
     "pyrogram": __version__,
     "python": python_version(),
 }
 
-UpdateChannel = "RiZoeL_X"
-SupportGroup = "RiZoeLXSupport"
+UpdateChannel = "hackingzoneghost"
+SupportGroup = "hackingzoneghost"
 
 activeTasks: dict = {}
 dataBase = dataBase
@@ -28,4 +28,4 @@ dataBase = dataBase
 if PING_MSG:
     pingMSG = str(PING_MSG)
 else:
-    pingMSG = "SpamX"
+    pingMSG = "TURBO SPAM BOT AA GAYA HAIN SABKI MAA CHODNE KE LIE⚡"
