@@ -13,7 +13,7 @@ StartTime = time.time()
 
 # --- versions --- #
 version = {
-    "TURBO PAPA SPAM": "v2.0",
+    "TURBO PAPA SPAM": v2.0,
     "pyrogram": __version__,
     "python": python_version(),
 }
