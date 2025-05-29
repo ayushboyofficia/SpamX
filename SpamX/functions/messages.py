@@ -1,6 +1,6 @@
 
 start_message = """
-**Hello {}, Your SpamX - Assistant here!**
+**Hello {}, NASAMTE GURU TURBO - Assistant here!**
 
 __~ You can control your clients using me!__
 """
@@ -361,7 +361,7 @@ porn_links = [
 
 class helpMessages:
     start = """
-**Help menu of SpamX**
+**Help menu of turbo spam**
 
 __Your Command handler -__ `{0}`
 
@@ -370,7 +370,7 @@ __Your Command handler -__ `{0}`
     """
 
     basic = """
-**Basic Commands of SpamX**
+**Basic Commands of turbo spam 💦**
 
  1) `{0}ping` - __to check ping.__
  2) `{0}alive` - __to check is SpamX is alive.__
@@ -399,7 +399,7 @@ __Your Command handler -__ `{0}`
     """
 
     profile = """
-**Profile Commands of SpamX**
+**Profile Commands of turbo x spam**
 
  1) `{0}setpic` | `{0}updatepic `(reply to media) - __to update profile pic.__
  2) `{0}setname` | `{0}updatename` (new name) - __to update profile name.__
@@ -411,7 +411,7 @@ __Your Command handler -__ `{0}`
     """
 
     raid = """
-**Raid Commands of SpamX**
+**Raid Commands of turbo x**
 
  1) `{0}raid` (counts) (user ID/username or reply to user) - __to start raid on specific user.__
  2) `{0}multiraid` | `{0}mraid` (counts) (user ID/usernames of raid user space by space) - __to start raid on multiple users.__
