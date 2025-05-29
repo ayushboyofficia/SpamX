@@ -263,7 +263,7 @@ class help_functions:
         if ALIVE_MSG is not None:
             aliveMSG = str(ALIVE_MSG)
         else:
-            aliveMSG = "**SpamX is Alive**"
+            aliveMSG = "**turbo spam jivis Alive**"
 
         try:
             owner = await client.get_users(OWNER_ID)
@@ -275,7 +275,7 @@ class help_functions:
         aliveText += "━───────╯•╰───────━\n"
         aliveText += f"➠ **Master:** {owner_mention}\n"
         aliveText += f"➠ **Python Version:** `{version['python']}`\n"
-        aliveText += f"➠ **SpamX Version:** `{version['SpamX']}`\n"
+        aliveText += f"➠ **turbo spam Version:** `{version['SpamX']}`\n"
         aliveText += f"➠ **Pyro-gram Version:** `{version['pyrogram']}`\n"
         aliveText += f"➠ **Channel:** @{UpdateChannel} \n"
         aliveText += "━───────╮•╭───────━\n\n"
@@ -613,7 +613,7 @@ class help_functions:
                     )
                 await asyncio.sleep(data['delay'])
             activeTasks.pop(message.chat.id)
-            await message.reply("__Spam completed ✅__")
+            await message.reply("__xhudai🙂 completed ✅__")
 
         else: #if spam.lower() in ["spam", "delay", "future"]:
             if spam_dict:
@@ -725,7 +725,7 @@ class help_functions:
             if sudo_check:
                 return
 
-            await message.reply(f"__✅ Starting spam on {user.mention} personally__")
+            await message.reply(f"__✅ chudail ⚡spam on {user.mention} personally__")
             active_task = {
                 "user": user,
                 "started_by": message.from_user.id,
