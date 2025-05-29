@@ -1,5 +1,5 @@
 """
-    SpamX by RiZoeL
+    TURBO SPAM BY LITHIUM POLYMER 
 """
 import glob
 import importlib
@@ -229,7 +229,7 @@ class SpamX(Client):
 
     async def startup(self) -> None:
         LOGS.info(
-            f"-> Starting SpamX ....."
+            f"-> ruk chaalu kar raha hu....."
         )
         await self.startBot()
         await self.StartAllClients()
