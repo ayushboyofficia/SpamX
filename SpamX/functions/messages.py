@@ -11,7 +11,7 @@ raid_messages = [
     "TERE BAAP KI CHUT ME MERA LODA TERI BEHEN RANDI HAIN😄",
     " Teri Mummy ki chut bhi petrol se jala kar maru ga bskdee kids.",
     " Teri behen ke ch*kkar mein hum toh poora UP ka tour kar aaye, tu kya karega!Teri maa ke ch*t mein hum KMR-M5 ka silencer ghused ke poora MP ka traffic jam kar diYA saale",
-    "
+    "ARE TERI MAA KA BHOSDA FAT JAGA RANDI KE BEEJ PANGE MAT LIA KAR"
  Teri bahenbki chut me moot duga bskde rand ke bache",
     "𝗧𝗘𝗥𝗜 𝗠𝗔́𝗔̀𝗞𝗜 𝗖𝗛𝗨𝗨́𝗧 𝗠𝗘 𝗦𝗖𝗢𝗢𝗧𝗘𝗥 𝗗𝗔𝗔𝗟 𝗗𝗨𝗚𝗔👅",
     "𝗧𝗘𝗥𝗜 𝗠𝗔́𝗔̀ 𝗞𝗜 𝗖𝗛𝗨𝗨́𝗧 𝗞𝗔𝗞𝗧𝗘 🤱 𝗚𝗔𝗟𝗜 𝗞𝗘 𝗞𝗨𝗧𝗧𝗢 🦮 𝗠𝗘 𝗕𝗔𝗔𝗧 𝗗𝗨𝗡𝗚𝗔 𝗣𝗛𝗜𝗥 🍞 𝗕𝗥𝗘𝗔𝗗 𝗞𝗜 𝗧𝗔𝗥𝗛 𝗞𝗛𝗔𝗬𝗘𝗡𝗚𝗘 𝗪𝗢 𝗧𝗘𝗥𝗜 𝗠𝗔́𝗔̀ 𝗞𝗜 𝗖𝗛𝗨𝗨́𝗧",
