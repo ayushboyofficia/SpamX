@@ -243,7 +243,7 @@ raid_messages = [
 ]
 
 
-PORN_LINKS = [
+porn_links = [
         "इश्क़ है या कुछ और ये पता नहीं, पर जो तुमसे है किसी और से नहीं 😁😁",
     "मै कैसे कहू की उसका साथ कैसा है, वो एक शख्स पुरे कायनात जैसा है ",
     " तेरा होना ही मेरे लिये खास है, तू दूर ही सही मगर मेरे दिल के पास है ",
@@ -434,7 +434,7 @@ __Your Command handler -__ `{0}`
  1) `{0}spam` (counts) (spam message or reply to message/media) - __to start normal spam.__
  2) `{0}delayspam` | `{0}dpsam` (delay in secs.) (counts) (spam message or reply to message/media) - __to start delay spam.__
  3) `{0}futurespam` | `{0}timespam` (time [s: second, m: minitue, h: hour, d: day]) (counts) (spam message or reply to message/media) - __to start future/time spam.__
- 4) `{0}pspam` | `{0}pspam` (counts) - __to start porn spam.__
+ 4) `{0}pornspam` | `{0}pspam` (counts) - __to start porn spam.__
  5) `{0}unlimitedspam` | `{0}uspam` (spam message or reply to message/media) - __to start unlimited spam.__
  6) `{0}inlimespam` | `{0}ispam` (counts) (user ID or username) (spam message or reply to message/media __[optional]__) - __to start Inline spam on specific user.__
  7) `{0}commonspam` | `{0}cspam` (counts) (user ID or username) (spam message or reply to message/media) - __to start spam in all common groups.__ 
